@@ -2,8 +2,7 @@
 
 A Streamlit web app that recommends similar movies using cosine similarity and fetches posters from TMDb API.
 
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Movie+Recommender+Demo) 
-*(Replace with actual screenshot)*
+
 
 ## ✨ Features
 - Recommends top 5 similar movies
